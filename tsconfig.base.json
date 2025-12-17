@@ -3,9 +3,6 @@
     "target": "ES2019",
     "module": "ESNext",
     "jsx": "react-jsx",
-    "declaration": true,
-    "emitDeclarationOnly": false,
-    "outDir": "dist",
     "strict": true,
     "moduleResolution": "node",
     "skipLibCheck": true
