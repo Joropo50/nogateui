@@ -1,0 +1,12 @@
+{
+  "name": "nogateui",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npm run build --workspaces",
+    "build:skeleton": "npm run build --workspace=@nogateui/skeleton",
+    "build:button": "npm run build --workspace=@nogateui/button"
+  }
+}
